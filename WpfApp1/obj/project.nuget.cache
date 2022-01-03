@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oh0TDdjsPTq9pAn0OcqCvpH3YuX2A1CTuprrCNe5KwbyoUxouQEDuLIcg90cCw/gm45ALxRR7KQMEh9OndDlVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artur\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\writeablebitmapex\\1.6.8\\writeablebitmapex.1.6.8.nupkg.sha512"
+  ],
+  "logs": []
+}
